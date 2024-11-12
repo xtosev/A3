@@ -1,2 +1,2 @@
 # A3-Evidencija Radnika
-A3-DistribucijaLekova - Maturski ispit - desktop aplikacija 
+A3-Evidencija Radnika - Maturski ispit - desktop aplikacija 
